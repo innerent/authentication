@@ -7,6 +7,10 @@
             "email": "maxcelos@outlook.com"
         }
     ],
+    "require": {
+        "dyrynda/laravel-efficient-uuid": "^3.0",
+        "dyrynda/laravel-model-uuid": "^5.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
