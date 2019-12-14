@@ -1,0 +1,13 @@
+{
+    "name": "Authentication",
+    "alias": "authentication",
+    "description": "",
+    "keywords": [],
+    "order": 3,
+    "providers": [
+        "Innerent\\Authentication\\Providers\\AuthenticationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

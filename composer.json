@@ -1,0 +1,25 @@
+{
+    "name": "innerent/authentication",
+    "description": "",
+    "authors": [
+        {
+            "name": "Marcelo Barros da Silva",
+            "email": "maxcelos@outlook.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Innerent\\Authentication\\Providers\\AuthenticationServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Innerent\\Authentication\\": ""
+        }
+    }
+}
